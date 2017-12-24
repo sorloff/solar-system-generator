@@ -1,0 +1,132 @@
+Name: system;regular
+Parent: null
+A regular system. It's just your average system. One star, some planets. Nothing fancy.
+Name: star;red dwarf
+Parent: system;regular
+A red dwarf star. God, what an awful show.
+Size: 480
+Mass: 1
+Luminosity: 1
+Real Luminosity: 1.0E-4
+
+Name: planet;gaseous
+Parent: star;red dwarf
+A gaseous planet. Actually, the surface is just there! Yeah, under the clouds. Keep going.
+Temperature: frozen
+Atmosphere: vacumn
+Size: average
+Location: 163.4080854481933
+This planet is way too far from its star.
+
+Name: moon;regular
+Parent: planet;gaseous
+A regular moon. It's average.
+
+
+Name: moon;massive
+Parent: planet;gaseous
+A massive moon. On the surface, this moon takes up more than half the sky.
+
+
+Name: moon;regular
+Parent: planet;gaseous
+A regular moon. You know, made of cheese.
+
+
+Name: moon;regular
+Parent: planet;gaseous
+A regular moon. White and shining.
+
+
+Name: moon;small
+Parent: planet;gaseous
+A small moon. Just barely visible on the planet's surface.
+
+
+
+
+Name: planet;strange
+Parent: star;red dwarf
+A strange planet. A home for oddities and outcasts.
+Temperature: frozen
+Atmosphere: oppressive
+Size: small
+Location: 16.17938371168759
+This planet is way too far from its star.
+
+Name: moon;small
+Parent: planet;strange
+A small moon. It'd make a good anchor for a space elevator, at least.
+
+
+
+
+Name: planet;gaseous
+Parent: star;red dwarf
+A gaseous planet. It's not really good for much, to be honest.
+Temperature: warm
+Atmosphere: moderate
+Size: massive
+Location: 253.90303614082364
+This planet is way too far from its star.
+
+Name: moon;massive
+Parent: planet;gaseous
+A massive moon. On the surface, this moon takes up more than half the sky.
+
+
+Name: moon;small
+Parent: planet;gaseous
+A small moon. It'd make a good anchor for a space elevator, at least.
+
+
+Name: moon;massive
+Parent: planet;gaseous
+A massive moon. Solar eclipses are pretty common.
+
+
+Name: moon;massive
+Parent: planet;gaseous
+A massive moon. On the surface, this moon takes up more than half the sky.
+
+
+Name: moon;small
+Parent: planet;gaseous
+A small moon. Barely a moon at all, really.
+
+
+Name: moon;strange
+Parent: planet;gaseous
+A strange moon. It's pretty loony.
+
+
+Name: moon;massive
+Parent: planet;gaseous
+A massive moon. A planet in its own right.
+
+
+Name: moon;small
+Parent: planet;gaseous
+A small moon. Just barely visible on the planet's surface.
+
+
+
+
+Name: Oort cloud;sparse
+Parent: star;red dwarf
+A sparse Oort cloud. Here and there, the last remnants of this star's birth float.
+
+
+Name: asteroid belt;dense
+Parent: star;red dwarf
+A dense asteroid belt. You can see it with the naked eye.
+
+
+Name: asteroid belt;strange
+Parent: star;red dwarf
+A strange asteroid belt. Forgotten relics and ancient ruins have collected here.
+
+
+Name: comet;colorful
+Parent: star;red dwarf
+A colorful comet. A diamond in the cosmic rough.

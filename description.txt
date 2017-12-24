@@ -1,0 +1,66 @@
+Name: system;regular
+Parent: null
+A regular system. It's just your average system. One star, some planets. Nothing fancy.
+Name: star;red dwarf
+Parent: system;regular
+A red dwarf star. God, what an awful show.
+Size: 489
+Mass: 3
+Luminosity: 3
+Real Luminosity: 0.01
+
+Name: planet;gaseous
+Parent: star;red dwarf
+A gaseous planet. It's not really good for much, to be honest.
+Temperature: frozen
+Atmosphere: full
+Size: large
+Location: 190.4564564011669
+This planet is way too far from its star.
+
+Name: moon;massive
+Parent: planet;gaseous
+A massive moon. A planet in its own right.
+
+
+Name: moon;massive
+Parent: planet;gaseous
+A massive moon. A planet in its own right.
+
+
+
+
+Name: planet;venusian
+Parent: star;red dwarf
+A venusian planet. The clouds and rain are made of metal and rock.
+Temperature: hot
+Atmosphere: oppressive
+Size: small
+Location: 19.78924560305755
+This planet is way too far from its star.
+
+Name: moon;strange
+Parent: planet;venusian
+A strange moon. I was going to put a 'loony' pun here but that seemed too obvious.
+
+
+Name: moon;strange
+Parent: planet;venusian
+A strange moon. I was going to put a 'loony' pun here but that seemed too obvious.
+
+
+
+
+Name: Oort cloud;icy
+Parent: star;red dwarf
+A icy Oort cloud. Once in a millenia, one of these will be shaken free and become a comet.
+
+
+Name: comet;regular
+Parent: star;red dwarf
+A regular comet. Your average comet. Still very pretty.
+
+
+Name: comet;great
+Parent: star;red dwarf
+A great comet. Let's just hope it never hits anything.
